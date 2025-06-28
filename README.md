@@ -80,15 +80,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveesha2024&show_icons=true&locale=en&layout=compact" alt="kaveesha2024" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaveesha2024&show_icons=true&locale=en" alt="kaveesha2024" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveesha2024&" alt="kaveesha2024" /></p>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
